@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnashborn
+- 👋 Hi, I’m John Rey
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning java
 - 😄 Pronouns: batman
