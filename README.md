@@ -7,27 +7,30 @@ Hi, I'm John Rey Aranton
 </h1>
 
 <h3 align="left">
-A passionate student developer from the Philippines focused on android development
+A passionate student developer from the Philippines focused on Android development and real-world problem solving.
 </h3>
+
+![Profile Views](https://komarev.com/ghpvc/?username=johnashborn&style=for-the-badge)
 
 ---
 
 ## About Me
-- I enjoy building **AI-assisted applications**, especially applications that aims to solve real world problems
+- I aim to build **AI-assisted applications**, especially systems designed to solve real-world problems.
 - Currently a **2nd-year BSIT student** at **Bohol Island State University**.
-- Built a **Lost and Found System** using **Java swing**, [view project](https://github.com/johnashborn/Lost-And-Found).
-- Currently working on **Studie**, an ai powered application designed to cater student needs for free [view project](https://github.com/johnashborn/StuDie_app/releases/tag/Protoype2). (**in progress**)
-- Actively improving my understanding of **databases, backend systems, AI integration, software fundamentals, and android development**.
-- If you code long enough, you'll crashout
+- Built a **Lost and Found System** using **Java Swing**, [view project](https://github.com/johnashborn/Lost-And-Found).
+- Currently working on **Studie**, an AI-powered academic assistant built to support student learning for free — [view project](https://github.com/johnashborn/StuDie_app/releases/tag/Protoype2) (**in progress**).
+- Actively improving my understanding of **databases, backend systems, AI integration, software fundamentals, and Android development**.
+- If you code long enough, you'll crash out.
 
 ---
 
-## Interactive Demos (to be announced)
-
+## Interactive Demos
+*Coming soon — demo deployments & app previews.*
 
 ---
 
 ## Tech Stack
+
 ### Core / Main
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -38,7 +41,6 @@ A passionate student developer from the Philippines focused on android developme
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 
-
 ### Learning / Exploring
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -47,12 +49,6 @@ A passionate student developer from the Philippines focused on android developme
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![AI](https://img.shields.io/badge/AI%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
-
-
-
----
-
-
 
 ---
 
