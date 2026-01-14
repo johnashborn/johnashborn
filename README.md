@@ -25,7 +25,7 @@ A passionate student developer from the Philippines focused on Android developme
 ---
 
 ## Demo
-- **Studie** — [View Project](https://github.com/johnashborn/StuDie_app)
+- **Studie** — [View Project](https://github.com/johnashborn/StuDie_app/releases/tag/Protoype2)
 
 
 ---
