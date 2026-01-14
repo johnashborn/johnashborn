@@ -52,9 +52,9 @@ A passionate student developer from the Philippines focused on Android developme
 
 ## GitHub Stats
 
-![John Rey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnashborn&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnashborn&layout=compact&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnashborn&theme=dark)
+![GitHub followers](https://img.shields.io/github/followers/johnashborn?label=Followers&style=for-the-badge)
+![GitHub repo count](https://img.shields.io/github/repos/johnashborn?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/johnashborn?style=for-the-badge)
 
 ---
 
