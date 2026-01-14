@@ -17,7 +17,7 @@ A passionate student developer from the Philippines focused on android developme
 - Currently a **2nd-year BSIT student** at **Bohol Island State University**.
 - Built a **Lost and Found System** using **Java swing**, [view project](https://github.com/johnashborn/Lost-And-Found).
 - Currently working on **Studie**, an ai powered application designed to cater student needs for free [view project](https://github.com/johnashborn/StuDie_app/releases/tag/Protoype2). (**in progress**)
-- Actively improving my understanding of **databases, backend systems, AI integration, and software fundamentals**.
+- Actively improving my understanding of **databases, backend systems, AI integration, software fundamentals, and android development**.
 - If you code long enough, you'll crashout
 
 ---
@@ -35,7 +35,9 @@ A passionate student developer from the Philippines focused on android developme
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
+
 
 ### Learning / Exploring
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,6 +45,9 @@ A passionate student developer from the Philippines focused on android developme
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+
 
 
 ---
