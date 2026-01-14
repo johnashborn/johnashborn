@@ -53,7 +53,6 @@ A passionate student developer from the Philippines focused on Android developme
 ## GitHub Stats
 
 ![GitHub followers](https://img.shields.io/github/followers/johnashborn?label=Followers&style=for-the-badge)
-![GitHub repo count](https://img.shields.io/github/repos/johnashborn?style=for-the-badge)
 ![GitHub stars](https://img.shields.io/github/stars/johnashborn?style=for-the-badge)
 
 ---
