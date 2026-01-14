@@ -58,4 +58,3 @@ A passionate student developer from the Philippines focused on Android developme
 
 ---
 
-![GitHub Snake Dark](https://github.com/Pranziss/Pranziss/blob/output/github-snake-dark.svg)
