@@ -18,14 +18,15 @@ A passionate student developer from the Philippines focused on Android developme
 - I aim to build **AI-assisted applications**, especially systems designed to solve real-world problems.
 - Currently a **2nd-year BSIT student** at **Bohol Island State University**.
 - Built a **Lost and Found System** using **Java Swing**, [view project](https://github.com/johnashborn/Lost-And-Found).
-- Currently working on **Studie**, an AI-powered academic assistant built to support student learning for free — [view project](https://github.com/johnashborn/StuDie_app/releases/tag/Protoype2) (**in progress**).
+- Currently working on **Studie**, an AI-powered academic assistant built to support student learning for free — [view project](https://github.com/johnashborn/StuDie_app) (**in progress**).
 - Actively improving my understanding of **databases, backend systems, AI integration, software fundamentals, and Android development**.
 - If you code long enough, you'll crash out.
 
 ---
 
-## Interactive Demos
-*Coming soon — demo deployments & app previews.*
+## Demo
+- **Studie** — [View Project](https://github.com/johnashborn/StuDie_app)
+
 
 ---
 
