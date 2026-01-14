@@ -10,8 +10,6 @@ Hi, I'm John Rey Aranton
 A passionate student developer from the Philippines focused on Android development and real-world problem solving.
 </h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=johnashborn&style=for-the-badge)
-
 ---
 
 ## About Me
@@ -25,8 +23,7 @@ A passionate student developer from the Philippines focused on Android developme
 ---
 
 ## Demo
-- **Studie** — [View Project](https://github.com/johnashborn/StuDie_app/releases/tag/Protoype2)
-
+- **Studie** — [View Project](https://github.com/johnashborn/StuDie_app)
 
 ---
 
@@ -50,6 +47,14 @@ A passionate student developer from the Philippines focused on Android developme
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![AI](https://img.shields.io/badge/AI%20Integration-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)
+
+---
+
+## GitHub Stats
+
+![John Rey's GitHub Stats](https://github-readme-stats.vercel.app/api?username=johnashborn&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johnashborn&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johnashborn&theme=dark)
 
 ---
 
