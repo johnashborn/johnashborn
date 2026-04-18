@@ -7,7 +7,7 @@ Hi, I'm John Rey Aranton
 </h1>
 
 <h3 align="left">
-A passionate student developer from the Philippines focused on Android development and real-world problem solving.
+A passionate student developer from the Philippines focused on Android and desktop application development and real-world problem solving.
 </h3>
 
 ---
